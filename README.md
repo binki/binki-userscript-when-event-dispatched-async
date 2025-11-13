@@ -20,7 +20,7 @@ Include this in your userscript using [`@require`](https://wiki.greasespot.net/M
 # API
 
 ```js
-whenEventDispatchedAsync(eventTarget, type, handleEvent, useCapture);
+whenEventDispatchedAsync(eventTarget, type, handleEvent, options);
 ```
 
 Parameters:
